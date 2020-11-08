@@ -2,4 +2,4 @@
 title: What does a leopard gecko eat?
 ---
 
-Insects, such as crickets and mealworms.
+Leopard geckos are insectivores: they eat live insects, such as crickets and mealworms.
