@@ -2,4 +2,4 @@ title = "Answers"
 theme = "hugo-PaperMod"
 baseURL = "https://answer.dance"
 publishDir = "docs"
-relativeURLs = false
+relativeURLs = true
