@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whats on Answers</title>
-    <link>/what/</link>
+    <link>https://answer.dance/what/</link>
     <description>Recent content in Whats on Answers</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/what/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://answer.dance/what/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What are the countries in the Europen Union?</title>
-      <link>/what/are/the-countries/in/the-european-union/</link>
+      <link>https://answer.dance/what/are/the-countries/in/the-european-union/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/what/are/the-countries/in/the-european-union/</guid>
+      <guid>https://answer.dance/what/are/the-countries/in/the-european-union/</guid>
       <description> France Germany Italy Spain Portugal  </description>
     </item>
     
     <item>
       <title>What does a leopard gecko eat?</title>
-      <link>/what/does/a-leopard-gecko/eat/</link>
+      <link>https://answer.dance/what/does/a-leopard-gecko/eat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/what/does/a-leopard-gecko/eat/</guid>
+      <guid>https://answer.dance/what/does/a-leopard-gecko/eat/</guid>
       <description>Insects, such as crickets and mealworms.</description>
     </item>
     
     <item>
       <title>What is the currency of the United States?</title>
-      <link>/what/is/the-currency/of/the-united-states/</link>
+      <link>https://answer.dance/what/is/the-currency/of/the-united-states/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/what/is/the-currency/of/the-united-states/</guid>
+      <guid>https://answer.dance/what/is/the-currency/of/the-united-states/</guid>
       <description>The US Dollar, abbreviated USD</description>
     </item>
     
