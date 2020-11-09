@@ -18,3 +18,7 @@ Clouds are categorized by their height in the atmosphere.
 * Vertical
   * **Cumulus** clouds have vertical growth. They are puffy white or light gray clouds that look like floating cotton balls.
   * **Cumulonimbus** clouds have vertical growth and can grow up to 10 km high.
+
+References
+
+* [https://scied.ucar.edu/learning-zone/clouds/cloud-types]
