@@ -21,4 +21,4 @@ Clouds are categorized by their height in the atmosphere.
 
 References
 
-* [https://scied.ucar.edu/learning-zone/clouds/cloud-types]
+* (https://scied.ucar.edu/learning-zone/clouds/cloud-types)
