@@ -8,6 +8,6 @@ Diabetes is a chronic disease that occurs when the pancreas cannot make insulin,
 * In **Type 2 diabetes**, the body does not make good use of the insulin it produces. Healthy lifestyle can control this kind of diabetes, although insulin may also be needed.
 * In **Gestational diabetes**, high blood glucose occurs during pregnancy, affecting both the mother and the child.
 
-Reference
+References
 
-[https://www.idf.org/aboutdiabetes/what-is-diabetes.html]
+* [https://www.idf.org/aboutdiabetes/what-is-diabetes.html]
